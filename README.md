@@ -1,1 +1,1 @@
-# Natural Language Processing with Spacy-HuggingFace
+# Natural Language Processing with spaCy
