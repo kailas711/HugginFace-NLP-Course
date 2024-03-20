@@ -1,1 +1,1 @@
-# Natural Language Processing Learning Repo
+# NLP Learning Repository
