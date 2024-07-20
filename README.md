@@ -12,3 +12,5 @@ Lesson #7: *Large Language Models and Supplementary Lessons*
 
 **HugginFace 🤗 Transformers**
 
+The NLP course 
+
